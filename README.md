@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Laravel 8,**
 
-- 💬 Ask me about **codeigniter 3,Html5,Css3,Javascript,Ajax<jquery**
+- 💬 Ask me about **Php, codeigniter 3, Html5, Css3, Javascript, Ajax, jquery**
 
 - 📫 How to reach me **theshahzad2019@gmail.com**
 
